@@ -1,4 +1,4 @@
-Synopsis
+# Synopsis
 ________
 
 This is a personal project. As a student at AU I've repeatedly heard people ask what was being served at the cafe. Most of the time the other people pulled up the cafe menu website on their phone and looked it up. It would almost be faster to run over to the cafe and see what they were serving than to wait for the website to load.
